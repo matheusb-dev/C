@@ -1,5 +1,3 @@
-# FINALIZAÇÃO 1 SEMESTRE
+# SOBRE
 
-<h1> Finalização do 1 SEMESTRE de Engenharia de Software.
-
-<h2>
+Minha trajetória na faculdade de Engenharia de Software, aprendendo a Linguagem C
