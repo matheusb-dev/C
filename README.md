@@ -1,3 +1,3 @@
 # SOBRE
 
-Minha trajetória na faculdade de Engenharia de Software, aprendendo a Linguagem C
+Minha trajetória na faculdade de Engenharia de Software, aprendendo a Linguagem C na matéria de Lógica de programação e Algoritmo...
