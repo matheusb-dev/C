@@ -12,6 +12,6 @@ Aprendemos a usar: printf, scanf, if, else, for.
 
 Meu boletim na matéria de Lógica e Algoritmo
 
-<img src="/1 SEMESTRE/image/Captura de tela de 2024-06-30 19-07-39.png" alt="Meu boletim">
+<img src="/image/boletim.png" alt="Meu boletim">
 
 --------
